@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9982c617-8132-4c85-a2a6-4c56039ba253" name="idle" url="http://localhost">
+        <fileTransfer mountedRoot="C:\Users\Me\PycharmProjects\IDL" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
